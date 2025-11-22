@@ -2,7 +2,8 @@
 This reposritoery contains R code for basic R-basic statistical analyses.
 # Scripts:
 - 01_descriptive_statistics.R
-- 02_t_tests.R
+- 02_indepndentn_samples_ttests.R
+- 03_paired_samples_ttest.R
 - 03_chi_square_tests.R
 - 04_correlation_tests.R
 # Functions:
