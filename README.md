@@ -6,8 +6,9 @@ This reposritoery contains R code for basic R-basic statistical analyses.
 - 03_paired_samples_ttest.R
 - 03_chi_square_tests.R
 - 04_correlation_tests.R
-# Functions:
-helper_functions.R
+# Data sets:
+- for Independent Samples t-test: sample_data.csv
+- for Paired Sample t-test: ttest_sample_data.csv
 # Outputs:
 figures
 tables
