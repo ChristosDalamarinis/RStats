@@ -82,8 +82,7 @@ data[is.na(data), c("subject")] # Shows the subject IDs with missing values for 
 #################### CHI-SQUARE TEST ANALYSIS #################################
 ###############################################################################
 
-# The Research Question:
-# Is there a realtionship between gender and ice cream preference?
+# The Research Question: Is there a realtionship between gender and ice cream preference?
 
 # The Hypothesis:
 # H₀ (Null Hypothesis): There is no relationship between gender and ice cream 
