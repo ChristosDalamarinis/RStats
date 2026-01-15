@@ -4,7 +4,6 @@ This reposritoery contains R code for basic R-basic statistical analyses. Future
 
 =======
 This reposritoery contains R code for basic R-basic statistical analyses.
->>>>>>> 4ea8efd5a1b39a18935d14ba8294c11371055cc0
 # Scripts:
 - 01_descriptive_statistics.R
 - 02_indepndentn_samples_ttests.R
