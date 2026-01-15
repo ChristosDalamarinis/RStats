@@ -12,3 +12,4 @@ This reposritoery contains R code for basic R-basic statistical analyses. Future
 - for Independent Samples t-test: sample_data.csv
 - for Paired Sample t-test: ttest_sample_data.csv
 - for Chi-Square test: chi_square_simulated_data.csv
+chris
