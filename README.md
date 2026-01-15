@@ -1,5 +1,5 @@
 # R-Analysis
-This reposritoery contains R code for basic R-basic statistical analyses.
+This reposritoery contains R code for basic R-basic statistical analyses. Future scriprs will be added.
 
 # Scripts:
 - 01_descriptive_statistics.R
